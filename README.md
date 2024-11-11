@@ -22,4 +22,4 @@ Alunos:
   * DEF: caixa_leve
 
 ## Link para ver um vídeo com um exemplo do funcionamento do projeto:
-[![Watch the video](https://github.com/user-attachments/assets/19082a6a-cd0c-43fa-a712-ac2c8ff1898c)](https://youtu.be/V7FvbeZjHTE)
+[![Watch the video](https://github.com/user-attachments/assets/19082a6a-cd0c-43fa-a712-ac2c8ff1898c)](https://youtu.be/NztkDFIHFKE)
