@@ -10,7 +10,7 @@ Alunos:
 > Vinicius Alves Pedro (R.A: 22.221.036-1)
 
 ## Objetivo:
-### Fazer com que o robô encontre uma caixa de madeira ‘leve’ e parar de procurar. Ao parar ele deve permanecer imóvel acender os leds.
+### No simulador Webots, fazer com que um robô encontre uma caixa de madeira ‘leve’ e pare ao achar. Ao parar ele deve permanecer imóvel acender seus leds.
 
 ## Especificações do projeto:
 * Robot: “e-puck”
